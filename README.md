@@ -23,7 +23,6 @@
 - 🌱 I’m learning Data Structures & Algorithms
 - 🛠️ Working on Dash-based applications and Web Development projects
 - 💬 Ask me about **Web Development, Data Visualizations, Python**
-- ⚡ Fun fact: I love Neumorphism design and UI/UX principles
 
 ---
 
