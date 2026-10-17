@@ -1,356 +1,231 @@
-
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,35:5b21b6,70:0891b2,100:09090f&text=Madhumithra%20Shree&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=Engineer%20in%20the%20Making%20%7C%20AI%20%7C%20Software%20%7C%20Web&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Animated portfolio header"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Madhumithra+Shree+%F0%9F%91%8B;Software+Developer+%7C+AI+Enthusiast;Building+ideas+into+real+products;Turning+coffee+%E2%98%95+into+code;Learning%2C+Building%2C+Improving+Every+Day!" alt="Typing SVG"/>
-</a>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Madhumithra%20Shree%20E%20S&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Practitioner&descAlignY=55&descColor=c7d2fe"/>
 
 <a href="mailto:madhumithrakumar73@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/madhumithra-shree-e-s-97074623b">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://linkedin.com/in/madhumithra-shree-e-s">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/mithrakumar26">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://mithrakumar26.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mithrakumar26&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&lines=AI+Engineer+%F0%9F%A4%96+%7C+RAG+Framework+Builder;Full+Stack+Developer+%F0%9F%9A%80+%7C+BERT+%2B+LLM+Expert;895%2B+LeetCode+Problems+%7C+Top+9.39%25+Global;Co-authored+IEEE+Research+Paper+%F0%9F%93%84;Fresher+with+4+Internships+incl.+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## 🧠 About Me
 
-## ✦ About Me
+```python
+class Mithra:
+    def __init__(self):
+        self.name        = "Madhumithra Shree E S"
+        self.degree      = "B.E. Computer Science Engineering"
+        self.university  = "Chennai Institute of Technology"
+        self.cgpa        = 8.34
+        self.location    = "Chennai, Tamil Nadu, India 🇮🇳"
+        self.status      = "Fresher | Open to Opportunities"
+        self.internships = 4  # including 🇯🇵 Japan
+        self.leetcode    = "895 problems | Rating 1765 | Top 9.39%"
+        self.ieee_paper  = True  # co-authored at LTID Japan
 
-<img align="right" alt="Coding animation" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+    def say_hi(self):
+        print("I build AI systems that work in production — not just notebooks.")
+        print("Ask me about RAG, LLMs, FastAPI, or my Japan internship.")
 
-Hey there! I'm **Madhumithra Shree E. S.** 👋
-
-🎓 Computer Science Engineer from **Chennai Institute of Technology**.
-
-💻 Software Developer Intern at **CogniTreez**.
-
-🤖 Interested in Artificial Intelligence, Machine Learning, and intelligent applications.
-
-🌐 Building web applications, data dashboards, and AI-powered solutions.
-
-🧠 Practicing Data Structures & Algorithms and competitive programming.
-
-🚀 My goal is to build technology that solves meaningful real-world problems.
-
-<br clear="right"/>
-
-> *"Dream it. Design it. Develop it. Make it happen."*
-
----
-
-<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
-
-## ⚡ What I'm Up To
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 Currently Building
-- AI-powered applications
-- Interactive data visualization dashboards
-- Full-stack web development projects
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Currently Exploring
-- Machine Learning & Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Data Structures & Algorithms
-- Backend APIs and scalable systems
-
-</td>
-</tr>
-</table>
+me = Mithra()
+me.say_hi()
+```
 
 ---
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 💼 Experience Timeline
 
-## 🛠️ My Tech Universe
+<div align="center">
 
-### 💻 Languages
+| 🗓️ Period | 🏢 Company | 🌍 Location | 🎯 Role |
+|---|---|---|---|
+| Oct 2025 – Jan 2026 | Long Term Industrial Development (LTID) | 🇯🇵 Japan | AI / IT Engineer |
+| Oct 2024 – Jan 2025 | CogniTreez | 🇺🇸 USA | Software Developer Intern |
+| Jul 2024 – Sep 2024 | Google AI/ML Program (EduSkills) | 🌐 Remote | Software Engineering Intern |
+| May 2023 – Jul 2023 | Cisco Networking Academy | 🌐 Remote | Cybersecurity Intern |
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,c,cpp,html,css,sql&theme=dark" alt="Programming languages"/>
-</p>
+</div>
 
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind,bootstrap&theme=dark" alt="Web development technologies"/>
-</p>
-
-### 🧠 AI, Data & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,mongodb,mysql,postgres,firebase&theme=dark" alt="AI and database technologies"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,figma,docker,linux&theme=dark" alt="Tools and platforms"/>
-</p>
+### 🏆 Highlight — LTID Japan
+> Architected a **Dual-LLM Self-Assessment RAG framework** — pairing FAISS + Sentence-BERT retrieval with a Cross-Encoder reviewer model to reduce LLM hallucinations through confidence-driven query refinement. Co-authored an **IEEE research paper** on the methodology.
 
 ---
-
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
-
-## 💼 Experience & Learning
-
-<details>
-<summary><b>🚀 Software Developer Intern — CogniTreez</b></summary>
-<br/>
-
-- Developed interactive dashboards using Python Dash.
-- Worked on data visualization and dashboard interfaces.
-- Explored machine learning and AI-assisted application development.
-
-</details>
-
-<details>
-<summary><b>🧠 AI/ML Virtual Internship — Google & EduSkills</b></summary>
-<br/>
-
-- Explored machine learning fundamentals.
-- Worked with Python-based data analysis tools.
-- Practiced using Google Colab, NumPy, Pandas, and Matplotlib.
-
-</details>
-
-<details>
-<summary><b>🌐 Web Developer Intern — CodSoft</b></summary>
-<br/>
-
-- Built a personal portfolio website.
-- Developed a calculator and landing page.
-- Practiced responsive web design using HTML, CSS, and JavaScript.
-
-</details>
-
-<details>
-<summary><b>🔐 Cisco Virtual Internship Program</b></summary>
-<br/>
-
-- Explored networking and cybersecurity concepts.
-- Developed foundational knowledge of network security and programming.
-
-</details>
-
-<details>
-<summary><b>🇯🇵 Research & Development — LTID</b></summary>
-<br/>
-
-- Worked on a Dual-LLM Self-Assessment RAG framework.
-- Explored FAISS, Sentence-BERT, cross-encoders, and confidence estimation.
-- Contributed to research work involving retrieval-augmented generation.
-
-</details>
-
----
-
-<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🤖 Gemini AI Clone
+### 🤖 Fake Job Detection System
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![BERT](https://img.shields.io/badge/-BERT-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-<a href="https://github.com/mithrakumar26/Gemini-AI-Clone">
-<img src="https://img.shields.io/badge/Explore-Repository-7c3aed?style=for-the-badge&logo=github"/>
-</a>
-
-An interactive AI application built with React and the Google Gemini API.
-
-**Stack:** React · JavaScript · Gemini API
+Fine-tuned BERT classifier detecting fake job postings with **~98% accuracy**. Integrated Gemini API to auto-generate personalized learning roadmaps for genuine listings.
 
 </td>
-<td width="50%" valign="top">
-
-### 🛡️ SPARK — Fake Job Detection
-
-AI-powered job classification designed to identify potentially fraudulent job postings.
-
-**Stack:** Next.js · TypeScript · FastAPI · BERT · Gemini API
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📊 Competitive Programming Analytics
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 
-A platform concept for aggregating coding statistics and turning them into actionable insights.
-
-**Stack:** FastAPI · Next.js · TypeScript · Firebase · AI
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Dual-LLM RAG Framework
-
-A retrieval-augmented generation framework exploring document retrieval, reranking, and confidence estimation.
-
-**Stack:** Python · FAISS · Sentence-BERT · Cross-Encoder · LangChain
+Unified LeetCode + Codeforces + CodeChef into one dashboard with topic-wise analytics and Gemini AI-generated personalized learning roadmaps.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ✈️ Travel Website
+### 🏪 Inventory Management System
+![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-A clean and visually engaging website created to explore destinations and practice frontend design.
-
-**Stack:** HTML · CSS
-
-<a href="https://github.com/mithrakumar26/Travel-Website">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-0891b2?style=flat-square&logo=github"/>
-</a>
+Full-stack retail application for product, category, inventory, and sales management with Angular dashboard, CRUD operations, and REST APIs.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🏡 Home Decor E-commerce
+### 💬 Role-Based AI Assistant
+![Azure](https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-A frontend shopping experience focused on home decor products and interactive page elements.
-
-**Stack:** HTML · CSS · JavaScript
-
-<a href="https://github.com/mithrakumar26/Home-decor">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-0891b2?style=flat-square&logo=github"/>
-</a>
+Chatbot adapting tone per professional role (Developer/HR/Finance) via role-specific system prompts with persistent Azure Blob conversation history.
 
 </td>
 </tr>
 </table>
-
----
-
-<!-- ═══════════════════════ CODING JOURNEY ═══════════════════════ -->
-
-## 🏆 My Coding Journey
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-766%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/">
-<img src="https://leetcard.jacoblin.cool/madhumithra_26?theme=dark&font=Fira%20Code&ext=heatmap" width="500" alt="LeetCode statistics"/>
-</a>
-
 </div>
 
-> 💡 I believe consistent practice, learning from mistakes, and solving challenging problems are key to becoming a better engineer.
-
 ---
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-
-## 📈 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mithrakumar26&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrakumar26&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br/>
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=mithrakumar26&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrakumar26&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+## 📊 GitHub Stats
 
-## 🎓 Certifications & Credentials
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithrakumar26&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithrakumar26&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+</div>
 
-- Cisco CCNA v7 — Introduction to Networks
-- Cisco Cybersecurity Essentials
-- Microsoft Azure Fundamentals — AZ-900 preparation
-- Blockchain and its Applications
-- The Complete 2023 Web Development Bootcamp — Udemy
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithrakumar26&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
+</div>
 
 ---
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
-
-## 🌟 Achievements & Highlights
+## 🏅 Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Competitive%20Programming-Consistent%20Learner-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Project%20Builder-0891b2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Development-Full%20Stack%20Explorer-ec4899?style=for-the-badge"/>
+| 🎯 Achievement | 📊 Detail |
+|---|---|
+| 🧩 LeetCode Problems | **895 solved** • Rating **1,765** • Top **9.39%** globally |
+| 📄 IEEE Research Paper | Co-authored at **LTID Japan** on Dual-LLM RAG Framework |
+| 🏆 Hackathon | Finalist — **Productathon AI @ IIT Roorkee** |
+| 🥈 Hackathon | Finalist — **Hackathon 2.0** |
+| 🤖 BERT Accuracy | **~98%** on Fake Job Detection System |
+| 🌏 International Internship | AI Engineer @ **LTID Japan** |
 
 </div>
 
-- 🧩 Practiced hundreds of LeetCode problems across different difficulty levels.
-- 👩‍💻 Built projects across AI, machine learning, data visualization, and web development.
-- 🏅 Participated in hackathon and product-building initiatives, including Hackathon 2.0 and Productathon AI at IIT Roorkee.
-
 ---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
-## 🤝 Let's Connect & Build Something Amazing
+## 📜 Certifications
 
 <div align="center">
 
-**Have an idea, an interesting project, or an opportunity to collaborate?**
+![AZ-900](https://img.shields.io/badge/Azure_Fundamentals_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AI-900](https://img.shields.io/badge/Azure_AI_Fundamentals_AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNAv7_Intro_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CyberOps](https://img.shields.io/badge/CyberOps_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![ZTCA](https://img.shields.io/badge/Zscaler_Zero_Trust_Associate-0066CC?style=for-the-badge&logo=zscaler&logoColor=white)
+![EC-Council](https://img.shields.io/badge/Secure_Full_Stack_MEAN-CC0000?style=for-the-badge&logo=ec-council&logoColor=white)
 
-I'm always excited to learn, build, and connect with fellow developers.
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithrakumar26&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*"I build AI systems that work in production — not just in notebooks."*
 
 <a href="mailto:madhumithrakumar73@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Say%20Hello!-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/madhumithra-shree-e-s-97074623b">
-<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 💜 Thanks for visiting my profile!
-
-*Keep learning. Keep building. Keep shipping.* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:5b21b6,100:0891b2&height=120&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
 
 </div>
